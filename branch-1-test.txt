@@ -1,1 +1,6 @@
 Adding text to branch-1-test.txt
+
+Task 9.
+4. In "branch-conflicts-2" modify the same branch-1-test.txt file.
+5. commit it.
+6. Merge branch branch-conflict-2 to master.
