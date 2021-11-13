@@ -1,1 +1,6 @@
 Adding text to branch-1-test.txt
+
+Task 9. 
+1. Created two branches: branch-conflict and branch-conflict-2.
+2. In "branch-conflicts" modify the branch-1-test.txt file.
+3. Commit it.
